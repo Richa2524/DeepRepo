@@ -3,3 +3,4 @@ this is my first file
 this is 2nd line in file 1 edited in featue branch.
 
 main branch commit for merge conflict.
+this commit is oin feature_branch for merge conflict
