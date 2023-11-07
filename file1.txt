@@ -1,5 +1,0 @@
-this is my first file
-
-this is 2nd line in file 1 edited in featue branch.
-
-this commit is oin feature_branch for merge conflict
